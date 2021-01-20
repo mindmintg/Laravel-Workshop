@@ -1,0 +1,112 @@
+[2021-01-20 02:25:52] local.ERROR: Undefined constant "App\Providers\‘App\Http\Controllers’" {"exception":"[object] (Error(code: 0): Undefined constant \"App\\Providers\\‘App\\Http\\Controllers’\" at C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:690)
+[stacktrace]
+#0 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(624): Illuminate\\Foundation\\Application->resolveProvider('App\\\\Providers\\\\R...')
+#1 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('App\\\\Providers\\\\R...')
+#2 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(604): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(230): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(152): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 C:\\Users\\ADMin\\Nantachai\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\ADMin\\Nantachai\\server.php(21): require_once('C:\\\\Users\\\\ADMin\\\\...')
+#10 {main}
+"} 
+[2021-01-20 02:26:19] local.ERROR: Undefined constant "App\Providers\‘App\Http\Controllers’" {"exception":"[object] (Error(code: 0): Undefined constant \"App\\Providers\\‘App\\Http\\Controllers’\" at C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:690)
+[stacktrace]
+#0 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(624): Illuminate\\Foundation\\Application->resolveProvider('App\\\\Providers\\\\R...')
+#1 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('App\\\\Providers\\\\R...')
+#2 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(604): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(230): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(152): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 C:\\Users\\ADMin\\Nantachai\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\ADMin\\Nantachai\\server.php(21): require_once('C:\\\\Users\\\\ADMin\\\\...')
+#10 {main}
+"} 
+[2021-01-20 02:26:27] local.ERROR: Undefined constant "App\Providers\‘App\Http\Controllers’" {"exception":"[object] (Error(code: 0): Undefined constant \"App\\Providers\\‘App\\Http\\Controllers’\" at C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:690)
+[stacktrace]
+#0 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(624): Illuminate\\Foundation\\Application->resolveProvider('App\\\\Providers\\\\R...')
+#1 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('App\\\\Providers\\\\R...')
+#2 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(604): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(230): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(152): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 C:\\Users\\ADMin\\Nantachai\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\ADMin\\Nantachai\\server.php(21): require_once('C:\\\\Users\\\\ADMin\\\\...')
+#10 {main}
+"} 
+[2021-01-20 02:26:28] local.ERROR: Undefined constant "App\Providers\‘App\Http\Controllers’" {"exception":"[object] (Error(code: 0): Undefined constant \"App\\Providers\\‘App\\Http\\Controllers’\" at C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:690)
+[stacktrace]
+#0 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(624): Illuminate\\Foundation\\Application->resolveProvider('App\\\\Providers\\\\R...')
+#1 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('App\\\\Providers\\\\R...')
+#2 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(604): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(230): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(152): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 C:\\Users\\ADMin\\Nantachai\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\ADMin\\Nantachai\\server.php(21): require_once('C:\\\\Users\\\\ADMin\\\\...')
+#10 {main}
+"} 
+[2021-01-20 02:26:31] local.ERROR: Undefined constant "App\Providers\‘App\Http\Controllers’" {"exception":"[object] (Error(code: 0): Undefined constant \"App\\Providers\\‘App\\Http\\Controllers’\" at C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:690)
+[stacktrace]
+#0 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(624): Illuminate\\Foundation\\Application->resolveProvider('App\\\\Providers\\\\R...')
+#1 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('App\\\\Providers\\\\R...')
+#2 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(604): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(230): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(152): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 C:\\Users\\ADMin\\Nantachai\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\ADMin\\Nantachai\\server.php(21): require_once('C:\\\\Users\\\\ADMin\\\\...')
+#10 {main}
+"} 
+[2021-01-20 02:27:05] local.ERROR: Undefined constant "App\Providers\‘App\Http\Controllers’" {"exception":"[object] (Error(code: 0): Undefined constant \"App\\Providers\\‘App\\Http\\Controllers’\" at C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:690)
+[stacktrace]
+#0 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(624): Illuminate\\Foundation\\Application->resolveProvider('App\\\\Providers\\\\R...')
+#1 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('App\\\\Providers\\\\R...')
+#2 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(604): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(230): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(152): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 C:\\Users\\ADMin\\Nantachai\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\ADMin\\Nantachai\\server.php(21): require_once('C:\\\\Users\\\\ADMin\\\\...')
+#10 {main}
+"} 
+[2021-01-20 02:27:06] local.ERROR: Undefined constant "App\Providers\‘App\Http\Controllers’" {"exception":"[object] (Error(code: 0): Undefined constant \"App\\Providers\\‘App\\Http\\Controllers’\" at C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:690)
+[stacktrace]
+#0 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(624): Illuminate\\Foundation\\Application->resolveProvider('App\\\\Providers\\\\R...')
+#1 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('App\\\\Providers\\\\R...')
+#2 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(604): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(230): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(152): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 C:\\Users\\ADMin\\Nantachai\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\ADMin\\Nantachai\\server.php(21): require_once('C:\\\\Users\\\\ADMin\\\\...')
+#10 {main}
+"} 
+[2021-01-20 02:27:48] local.ERROR: Undefined constant "App\Providers\‘App\Http\Controllers’" {"exception":"[object] (Error(code: 0): Undefined constant \"App\\Providers\\‘App\\Http\\Controllers’\" at C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:690)
+[stacktrace]
+#0 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(624): Illuminate\\Foundation\\Application->resolveProvider('App\\\\Providers\\\\R...')
+#1 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('App\\\\Providers\\\\R...')
+#2 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(604): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(230): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(152): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(136): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 C:\\Users\\ADMin\\Nantachai\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 C:\\Users\\ADMin\\Nantachai\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\ADMin\\Nantachai\\server.php(21): require_once('C:\\\\Users\\\\ADMin\\\\...')
+#10 {main}
+"} 
